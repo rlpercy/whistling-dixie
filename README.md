@@ -1,2 +1,2 @@
 # whistling-dixie
-Demo site github pages!
+This site is a storage space for short video sequences.
